@@ -69,10 +69,6 @@
       <Project>{611abd60-f4a4-4a47-87b3-db94c82f7ebc}</Project>
       <Name>SumaForTestCalab.Droid</Name>
     </ProjectReference>
-    <ProjectReference Include="..\SumaForTestCalab\SumaForTestCalab\SumaForTestCalab.csproj">
-      <Project>{cf96a6d0-88dc-4229-b362-f259f1689100}</Project>
-      <Name>SumaForTestCalab</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

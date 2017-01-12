@@ -13,7 +13,3 @@ c:\users\area movil\documents\visual studio 2015\Projects\SumaForTestCalab\SumaF
 c:\users\area movil\documents\visual studio 2015\Projects\SumaForTestCalab\SumaForTestCalab\SumaForTestCalab\obj\Debug\SumaForTestCalab.dll
 c:\users\area movil\documents\visual studio 2015\Projects\SumaForTestCalab\SumaForTestCalab\SumaForTestCalab\obj\Debug\SumaForTestCalab.pdb
 C:\Users\Area Movil\Documents\Visual Studio 2015\Projects\SumaForTestCalab\SumaForTestCalab\SumaForTestCalab\obj\Debug\SumaForTestCalab.csprojResolveAssemblyReference.cache
-C:\Users\Area Movil\Documents\Visual Studio 2015\Projects\SumaForTestCalab\SumaForTestCalab\SumaForTestCalab\obj\Debug\SumaForTestCalab.dll.mdb
-C:\Users\Area Movil\Documents\Visual Studio 2015\Projects\SumaForTestCalab\SumaForTestCalab\SumaForTestCalab\bin\Debug\SumaForTestCalab.dll.mdb
-C:\Users\Area Movil\Documents\Visual Studio 2015\Projects\SumaForTestCalab\SumaForTestCalab\SumaForTestCalab\obj\Debug\SumaForTestCalab.dll.mdb
-C:\Users\Area Movil\Documents\Visual Studio 2015\Projects\SumaForTestCalab\SumaForTestCalab\SumaForTestCalab\bin\Debug\SumaForTestCalab.dll.mdb
