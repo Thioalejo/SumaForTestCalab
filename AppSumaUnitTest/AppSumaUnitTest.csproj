@@ -53,6 +53,12 @@
     <Compile Include="MathUnitTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SumaForTestCalab\SumaForTestCalab\SumaForTestCalab.csproj">
+      <Project>{cf96a6d0-88dc-4229-b362-f259f1689100}</Project>
+      <Name>SumaForTestCalab</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
       <ItemGroup>

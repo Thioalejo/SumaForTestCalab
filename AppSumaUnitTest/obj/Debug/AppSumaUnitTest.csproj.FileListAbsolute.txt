@@ -5,3 +5,13 @@ C:\Users\Area Movil\Documents\Visual Studio 2015\Projects\SumaForTestCalab\AppSu
 C:\Users\Area Movil\Documents\Visual Studio 2015\Projects\SumaForTestCalab\AppSumaUnitTest\obj\Debug\AppSumaUnitTest.csprojResolveAssemblyReference.cache
 C:\Users\Area Movil\Documents\Visual Studio 2015\Projects\SumaForTestCalab\AppSumaUnitTest\obj\Debug\AppSumaUnitTest.dll
 C:\Users\Area Movil\Documents\Visual Studio 2015\Projects\SumaForTestCalab\AppSumaUnitTest\obj\Debug\AppSumaUnitTest.pdb
+C:\Users\Area Movil\Documents\Visual Studio 2015\Projects\SumaForTestCalab\AppSumaUnitTest\bin\Debug\SumaForTestCalab.dll
+C:\Users\Area Movil\Documents\Visual Studio 2015\Projects\SumaForTestCalab\AppSumaUnitTest\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Area Movil\Documents\Visual Studio 2015\Projects\SumaForTestCalab\AppSumaUnitTest\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Area Movil\Documents\Visual Studio 2015\Projects\SumaForTestCalab\AppSumaUnitTest\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Area Movil\Documents\Visual Studio 2015\Projects\SumaForTestCalab\AppSumaUnitTest\bin\Debug\SumaForTestCalab.pdb
+C:\Users\Area Movil\Documents\Visual Studio 2015\Projects\SumaForTestCalab\AppSumaUnitTest\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Area Movil\Documents\Visual Studio 2015\Projects\SumaForTestCalab\AppSumaUnitTest\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Area Movil\Documents\Visual Studio 2015\Projects\SumaForTestCalab\AppSumaUnitTest\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Area Movil\Documents\Visual Studio 2015\Projects\SumaForTestCalab\AppSumaUnitTest\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Area Movil\Documents\Visual Studio 2015\Projects\SumaForTestCalab\AppSumaUnitTest\bin\Debug\Xamarin.Forms.Platform.pdb

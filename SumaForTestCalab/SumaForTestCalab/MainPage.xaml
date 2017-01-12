@@ -7,23 +7,28 @@
   <StackLayout>
   <Label Text="Welcome to Xamarin Forms!"
            VerticalOptions="Center"
-           HorizontalOptions="Center" />
+           HorizontalOptions="Center"
+           
+    />
 
 
     <Entry x:Name="txtNumero1"
       Placeholder="Numero 1 aquí"
-       />
+      AutomationId="EntryA"  />
     
     <Entry x:Name="txtNumero2"
       Placeholder="Numero 2 aquí"
-        />
+      AutomationId="EntryB"   />
     
-    <Button x:Name="btnSumar" Clicked="BtnSumar_Clicked" 
-            Text="Sumar"/>
+    <Button x:Name="btnSumar"
+            Clicked="BtnSumar_Clicked" 
+            Text="Sumar"
+            AutomationId="btnCalcularA" />
       
     
     <Entry x:Name="txtResultado"
-      Placeholder="Resultado aquí"
+           Placeholder="Resultado aquí"
+           AutomationId="EntryR" 
          />
       </StackLayout>
 </ContentPage>

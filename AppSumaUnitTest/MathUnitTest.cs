@@ -10,11 +10,11 @@ namespace AppSumaUnitTest
         public void SumaTest()
         {
             //Arrange
-            var sum = new S
+            
 
             //act
 
-
+            
 
             //Assert
         }
