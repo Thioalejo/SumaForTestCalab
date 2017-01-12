@@ -15,13 +15,14 @@ namespace SumaForTestCalab
             btnSumar.Clicked += BtnSumar_Clicked;
         }
 
+        Suma Sumar = new Suma();
         private void BtnSumar_Clicked(object sender, EventArgs e)
         {
             try
             {
                 int num1 = Convert.ToInt32(txtNumero1.Text);
                 int num2 = Convert.ToInt32(txtNumero1.Text);
-                txtResultado.Text = Sumar(num1, num2).ToString();
+                txtResultado.Text = Sumar.Sumar(num1, num2).ToString();
             }
             catch (Exception)
             {
@@ -29,13 +30,6 @@ namespace SumaForTestCalab
             }
             
             
-        }
-
-
-        public int Sumar(int a, int b)
-        {
-            int suma = a + b;
-            return suma;
         }
     }
 

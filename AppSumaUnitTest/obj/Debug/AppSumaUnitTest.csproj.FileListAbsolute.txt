@@ -1,0 +1,7 @@
+C:\Users\Area Movil\Documents\Visual Studio 2015\Projects\SumaForTestCalab\AppSumaUnitTest\bin\Debug\AppSumaUnitTest.dll
+C:\Users\Area Movil\Documents\Visual Studio 2015\Projects\SumaForTestCalab\AppSumaUnitTest\bin\Debug\AppSumaUnitTest.pdb
+C:\Users\Area Movil\Documents\Visual Studio 2015\Projects\SumaForTestCalab\AppSumaUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Area Movil\Documents\Visual Studio 2015\Projects\SumaForTestCalab\AppSumaUnitTest\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Area Movil\Documents\Visual Studio 2015\Projects\SumaForTestCalab\AppSumaUnitTest\obj\Debug\AppSumaUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Area Movil\Documents\Visual Studio 2015\Projects\SumaForTestCalab\AppSumaUnitTest\obj\Debug\AppSumaUnitTest.dll
+C:\Users\Area Movil\Documents\Visual Studio 2015\Projects\SumaForTestCalab\AppSumaUnitTest\obj\Debug\AppSumaUnitTest.pdb

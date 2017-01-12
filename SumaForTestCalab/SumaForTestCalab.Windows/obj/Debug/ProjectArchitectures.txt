@@ -1,2 +1,2 @@
-c:\users\area movil\documents\visual studio 2015\Projects\SumaForTestCalab\SumaForTestCalab\SumaForTestCalab.Windows\SumaForTestCalab.Windows.csproj;neutral
-c:\users\area movil\documents\visual studio 2015\Projects\SumaForTestCalab\SumaForTestCalab\SumaForTestCalab\SumaForTestCalab.csproj;neutral
+C:\Users\Area Movil\Documents\Visual Studio 2015\Projects\SumaForTestCalab\SumaForTestCalab\SumaForTestCalab.Windows\SumaForTestCalab.Windows.csproj;neutral
+C:\Users\Area Movil\Documents\Visual Studio 2015\Projects\SumaForTestCalab\SumaForTestCalab\SumaForTestCalab\SumaForTestCalab.csproj;neutral
