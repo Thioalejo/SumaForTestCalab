@@ -1,0 +1,2 @@
+c:\users\area movil\documents\visual studio 2015\Projects\SumaForTestCalab\SumaForTestCalab\SumaForTestCalab.WinPhone\SumaForTestCalab.WinPhone.csproj;neutral
+c:\users\area movil\documents\visual studio 2015\Projects\SumaForTestCalab\SumaForTestCalab\SumaForTestCalab\SumaForTestCalab.csproj;neutral
